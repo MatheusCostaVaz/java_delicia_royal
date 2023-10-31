@@ -1,4 +1,16 @@
-# Software
+# 💻 Software
+----
+Sistema desktop que gerencia o estoque e vendas de uma pequena empresa.
+
+## Funcionalidades
+----
+- CRUD de Cliente
+- CRUD de Funcionarios
+- CRUD de Produtos
+- Criação de Venda
+- Relatorio
+
+## Imagens do sistema
 ----
 
 ![image](https://github.com/MatheusCostaVaz/java_delicia_royal/assets/105075092/7dd5ecb2-7afe-4f1c-8fc4-3778ada921a9)
